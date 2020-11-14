@@ -18,4 +18,4 @@ Betterment quantifies the customer’s risk tolerance attribute in the computati
 
 ## Prognosis
 
-Betterment will be one of the major Roboadvice institutions in the market. The company expects to grow its portfolio going forward. The prospect of Roboadvice companies also gives the company a positive outlook.
+Betterment will be one of the major Roboadvice institutions in the market. The company expects to grow its portfolio going forward. The prospect of Roboadvice companies also gives the company a positive outlook. They have surpassed the point of 22Billion AUM in 500000 useraccount.
