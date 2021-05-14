@@ -4,6 +4,6 @@
 
 ## Overview
 
-Betterment is a robo-advisor company that was founded in 2008 by Jon Stein and Eli Broverman. This company provides a product that allows individuals to auto-invest their money based on their financial goals and track their investment portfolio. They also recently added checking and savings accounts as services. 
+Betterment is one of the original robo-advisors, first launched in 2008 with a mission to democratize the expensive, complicated business of investing. More than a decade later, Betterment remains among the most popular robo-advisor platforms, competing directly with Wealthfront at the head of a growing crowd of automated investing options.
 
-One of their direct competitors is Wealthfront, which offers a similar line of products and charges a similar fee.
+Betterment has bulked up its platform with a range of features and tools over the years, delivering a sophisticated and highly functional product to its clients. But for some users who are just getting started with investing, all the bells and whistles might seem somewhat overwhelming.
