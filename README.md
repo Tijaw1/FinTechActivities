@@ -10,5 +10,12 @@ Betterment has bulked up its platform with a range of features and tools over th
 
 ### Betterment Pros
 Low advisory fees
+
 Ability to choose different portfolios for different goals
+
 Tax management features, including tax-loss harvesting
+
+### Betterment Cons
+Relatively high fees for professional advice
+
+Emergency fund portfolio could be too risky
