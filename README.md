@@ -19,3 +19,7 @@ Tax management features, including tax-loss harvesting
 Relatively high fees for professional advice
 
 Emergency fund portfolio could be too risky
+
+Betterment is a solid robo-advisor choice for people who want to get serious about investing for something big, like a home down payment, college fund or their own retirement. Betterment’s algorithms match your risk tolerance and specific goals to diversified portfolios of low-cost exchange traded funds (ETFs) and mutual funds. Unlike Wealthfront, Betterment has no minimum deposit required to get started.
+
+Betterment offers two service tiers: Betterment Digital and Betterment Premium, available as an option for customers with a balance of more than $100,000. Betterment Digital charges an annual management fee of 0.25%, while Betterment Premium charges 0.40%. Opting into the higher service tier gets you unlimited, free services from Betterment’s team of financial advisors.
